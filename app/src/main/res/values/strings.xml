@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PopUpTest</string>
+
+    <string name="lbl_second">Second</string>
+    <string name="lbl_third">Third</string>
+    <string name="lbl_fourth">Fourth</string>
+
+</resources>
